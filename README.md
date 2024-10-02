@@ -1,7 +1,6 @@
 # Next Marvel Movie
 
 Este proyecto es una aplicación web que muestra información sobre la próxima película del universo Marvel. Utiliza PHP para llamar a una API y presenta los datos en una página web con HTML y CSS.
-Puedes ver la aplicación en acción en el siguiente enlace: [Visita la página](https://nxtmarvelmovie.zeabur.app)
 
 ## Descripción
 
